@@ -1,0 +1,4 @@
+3
+Nike Air Max,NIKE001,Nike,Black,3.5e+006,35,10
+Adidas UltraBoost,AD123,Adidas,White,2e+006,30,30
+New Balance 327,NB327,New Balance,Grey,1e+006,34,10
